@@ -1,3 +1,5 @@
+**- STL-10 학습 시 Linear-Eval: 42% 나오는데 맞는지 확인**
+
 # Bootstrap your own latent: A new approach to self-supervised Learning
 
 1. **Online Network**와 **Teacher Network**를 통해 새로운 방법으로 Representation Learning 수행
